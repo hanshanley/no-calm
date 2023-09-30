@@ -7,7 +7,7 @@ Abstract: QAnon is a far-right conspiracy theory whose followers largely organiz
 
 ## Citing our Paper
 
-If our lists of sites are useful for your own research, you can cite us with the following BibTex entry:
+If our list of sites are useful for your own research, you can cite us with the following BibTex entry:
 
 ```
 @inproceedings{hanley2022no,
